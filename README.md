@@ -39,9 +39,20 @@ This project translates the provided Figma design (Option A) into a fully functi
 
 ## 🔧 Local Setup
 
+Create a .env.local file:
+
+AIRTABLE_API_KEY=your_airtable_token
+
+AIRTABLE_BASE_ID=your_base_id
+
+AIRTABLE_TABLE_NAME=Responses
+
 ### Clone and run
 ```bash
 git clone https://github.com/KALI12ES/simplilearn-dallas-roundtable.git
 cd simplilearn-dallas-roundtable
 npm install
 npm run dev
+
+
+
