@@ -54,5 +54,10 @@ cd simplilearn-dallas-roundtable
 npm install
 npm run dev
 
+Deployed on the vercel 
+https://simplilearn-dallas-roundtable.vercel.app/
+https://simplilearn-dallas-roundtable-git-main-kali12es-projects.vercel.app/
+https://simplilearn-dallas-roundtable-9w6okq8mr-kali12es-projects.vercel.app/
+
 
 
